@@ -3,7 +3,10 @@
 	<ServerGroup Name="GrowAPair" Logo="" Description="Experimental XML Mods">
 		<Server Name="GrowAPair - SurViVal" Logo="">
 			<Description>
-Welcome to GrowAPair. A custom modded server featuring quality of life mods.
+Welcome to GrowAPair. A custom modded server featuring quality of life mods to add more features and content to the game.
+
+Our Website: https://growapair.enjin.com/
+Online Map: http://144.48.104.50:17559/static/index.html
 
 Current Mods include:
 
@@ -31,9 +34,9 @@ War3zuk A18 AIO Overhaul
 - War3zuk Suicide girls XXX
 - Xyth SteelBars
 
-HN Unnecessary but Beautiful 1.1r3 (Generic recipes for all items added, including working workstations.)
-SoDead_Farm Life Expanded v0.0.0.1r1 (Stasis78's Farm Life 2 and Mayic's Farming Mod combined.)
-SoDead_WeaponMods_v0.0.0.4r3
+HN Unnecessary but Beautiful 1.1r3 (Generic recipes for all items. Includes working workstations and larger storage space.)
+SoDead_Farm Life Expanded v0.0.0.1r1 (Stasis78's Farm Life 2 and Mayic's Farming Mod combined. Includes a custom Skill/Perk system for Farm Life.)
+SoDead_WeaponMods_v0.0.0.4r3 (Includes a custom Skill/Perk system (Master Craftsman) for new Weapons and recipes.)
 
 Have fun and enjoy your days surviving.
 
@@ -43,7 +46,8 @@ Have fun and enjoy your days surviving.
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://gitlab.com/war3zuk/war3zuk-alpha-18-aio-overhaul</Download>
+				<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-18-AIO</Download>
+				<Download>https://github.com/War3zuk/war3zuk-alpha-18-aio-Addon</Download>				
 				<Download>https://gitlab.com/SoDead/growapair</Download>				
 			</Downloads>
 		</Server>		
