@@ -3,42 +3,46 @@
 	<ServerGroup Name="GrowAPair" Logo="" Description="Experimental XML Mods">
 		<Server Name="GrowAPair - SurViVal" Logo="">
 			<Description>
-Welcome to GrowAPair. A custom modded server featuring quality of life mods to add more features and content to the game.
+Welcome. The modlets contained here include Grow A Pair - Farm Life Expanded. A 'proof of concept' modlet featuring quality of life enhancements to add more features and content to the game. This started from our regular players
+asking about old farming mods. I was asked if I could get these working for our server and this is my progress so far. I will also say... this is a learning process for myself, so things may be done differently.
+
+FarmLifeMod2 and Farming Mod have been merged and some workstations and items are no longer used due to being duplicates, etc.
+Unnecessary but Beautiful did not have any recipes at all in the copy I received, so they are all simple for the time being.
+
+I've added placeholder animals for more workstations and farming resources. The plans are to animate them in the future, but as they are now, they are stationary. Also, Not all new food items have actions applied at this time.
+
+
+Special thanks to stasis78 (FarmLifeMod2), hernanxx (UnnecessarybutBeautiful) and Mayic (Farming Mod) for prior work on thier mods.
+
+Extra special thanks to Linda, babygrl, Chris, Gator, Tru, Bluntz, David, Mistress Metal and Nomad for the initial help with everything to do with the farming mods.
+
+Thank you to the 7 Days to Die modlet creators for adding so much content to the game.
+
+Featured on our server:
+
+Grow A Pair - Farm Life Expanded v0.0.0.1 (A combination of stasis78 FarmLifeMod2 + Mayic Farming Mod + hernanxx UnnecessarybutBeautiful modlets. Added more animals and a perk system for Farm Life unlocks.)
+SoDead_WeaponMods_v0.0.0.5 (Includes a custom Skill/Perk system (Master Craftsman) for new Weapons, recipes and workstations.)
+
+
+Other modlets included:
+
+XythCommunityProject: 0-CreaturePackAnimals,0-CreaturePackZombies
+Bdubyah: BDubs Marauder,BDubs MRAP,BDubs Pickup,BDubs WillyJeep
+Moong: Hitmarkers
+Khelldon: Khelldon Screamer Bears
+Sirillion: SMXhud,SMXmenu
+Telrics: Telrics Health Bars 2.0
+Xyth: Xyth SteelBars
+Snufkin: Snufkin Custom Zombies
+
+Magoli: COMPOPACK_43
+
+
+
+Have fun and enjoy your days surviving.
 
 Our Website: https://growapair.enjin.com/
 Online Map: http://144.48.104.50:17559/static/index.html
-
-Current Mods include:
-
-War3zuk A18 AIO Overhaul
-- 0-CreaturePackAnimals
-- 0-CreaturePackHumans
-- 0-CreaturePackZombies
-- BDubs Nuka Colas 
-- Bdubs Vehicles
-- Boulder Regen
-- Hitmarkers
-- Khelldon Screamer Bears
-- Moong Military Tablet
-- More Vanilla Food
-- SMXhud
-- SMXmenu
-- Syth Water Buff
-- Telrics Health Bars 2.0
-- Valmars Buffed Supply Crate Drops
-- Valmars Disable Falling Trees
-- Vehicle Respawner
-- War3zuk Alpha 18 AIO
-- War3zuk Extra Deco Ore
-- War3zuk Paintings XXX 2x3
-- War3zuk Suicide girls XXX
-- Xyth SteelBars
-
-HN Unnecessary but Beautiful 1.1r3 (Generic recipes for all items. Includes working workstations and larger storage space.)
-SoDead_Farm Life Expanded v0.0.0.1r2 (Stasis78's Farm Life 2 and Mayic's Farming Mod combined. Includes a custom Skill/Perk system for Farm Life.)
-SoDead_WeaponMods_v0.0.0.4r3 (Includes a custom Skill/Perk system (Master Craftsman) for new Weapons and recipes.)
-
-Have fun and enjoy your days surviving.
 
 
 			</Description>
@@ -46,7 +50,6 @@ Have fun and enjoy your days surviving.
 			<ReleaseNotes/>
 			<DownloadMode>Clone</DownloadMode>
 			<Downloads>
-				<Download>https://gitlab.com/war3zuk/War3zuk-Alpha-18-AIO</Download>								
 				<Download>https://gitlab.com/SoDead/growapair</Download>				
 			</Downloads>
 		</Server>		
