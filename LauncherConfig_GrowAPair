@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
 	<ServerGroup Name="GrowAPair" Logo="" Description="Experimental XML Mods">
-		<Server Name="GrowAPair - SurViVal" Logo="">
+		<Server Name="GrowAPair - Farm Life Expanded" Logo="">
 			<Description>
 Welcome. The modlets contained here include Grow A Pair - Farm Life Expanded. A 'proof of concept' modlet featuring quality of life enhancements to add more features and content to the game. This started from our regular players
 asking about old farming mods. I was asked if I could get these working for our server and this is my progress so far. I will also say... this is a learning process for myself, so things may be done differently.
